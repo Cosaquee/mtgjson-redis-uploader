@@ -16,7 +16,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "tedis": "^0.1.12",
+    "tedis": "^1.0.3",
     "tslog": "^2.6.3",
     "yargs": "^15.4.1"
   }
